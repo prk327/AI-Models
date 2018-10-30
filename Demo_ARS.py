@@ -1,5 +1,6 @@
 import pandas as pd
 import AlgoEnv
+import ARS_Model
 
 # Running the main code
 data = pd.read_csv("PG_2007_2017.csv")
